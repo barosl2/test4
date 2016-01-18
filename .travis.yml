@@ -1,5 +1,6 @@
 language: c
 #script: gcc -Wall -Werror main.c
-script: sleep 30
+#script: sleep 30
+script: false
 #notifications:
 #    webhooks: http://barosl.com:7943/travis
